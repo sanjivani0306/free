@@ -1,0 +1,6 @@
+{
+  "name": "SkillSphere Hub",
+  "description": "An Intelligent Hyperlocal Freelance Ecosystem with AI matching, milestone payments, reputation scoring, real-time collaboration, and admin analytics dashboards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
